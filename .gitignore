@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/
+env/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+
+# Exclude original external repository
+/data_source/
+
+# Exclude unnecessary local scripts
+/push_to_github.py
+/project_inventory.txt
+/data_source/
