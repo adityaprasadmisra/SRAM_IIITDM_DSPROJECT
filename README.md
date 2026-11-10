@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/75e78a76-33e4-4f05-bc1a-3f5d3e5b9cd5
 
 ction across Process, Voltage, and Temperature (PVT) variations.**
 
-<p align="center">
+<p align="center"> 
   <img src="reports/figures/hold_snm_final.png" width="48%" alt="Hold SNM Analysis">
   <img src="reports/figures/read_snm_final.png" width="48%" alt="Read SNM Analysis">
 </p>
