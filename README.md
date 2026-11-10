@@ -1,6 +1,11 @@
 # SRAM Stability and Failure Probability Analysis
 
-**An AI/ML-driven analysis of SRAM stability, fault classification, and Static Noise Margin (SNM) prediction across Process, Voltage, and Temperature (PVT) variations.**
+**An AI/ML-driven analysis of SRAM stability, fault classification, and Static Noise Margin (SNM) predi
+
+https://github.com/user-attachments/assets/75e78a76-33e4-4f05-bc1a-3f5d3e5b9cd5
+
+
+ction across Process, Voltage, and Temperature (PVT) variations.**
 
 <p align="center">
   <img src="reports/figures/hold_snm_final.png" width="48%" alt="Hold SNM Analysis">
